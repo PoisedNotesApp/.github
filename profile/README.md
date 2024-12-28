@@ -3,6 +3,11 @@
 🙋‍♀️ The text editor for modern people.
 
 🍿 Your lifestyle, your way of taking notes: Offline, online, sync at will or never. It is a tool
+
+
+Looking for the app?
+Go here: https://github.com/PoisedNotesApp/app
+
 <!--
 
 **Here are some ideas to get you started:**
